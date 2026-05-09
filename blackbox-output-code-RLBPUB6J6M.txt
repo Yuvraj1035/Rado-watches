@@ -1,0 +1,4 @@
+1. File > Save As > "rado-watches.html" naam se save करो
+2. Netlify.com जाओ (FREE)
+3. "Drag & Drop" में यह file डालो
+4. 10 sec में LIVE WEBSITE मिल जाएगी! ✅
